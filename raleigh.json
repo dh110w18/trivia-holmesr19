@@ -51,7 +51,7 @@
 		"icon": "http://icons.iconarchive.com/icons/sonya/swarm/128/Park-icon.png",
 		"name": "Dorothea Dix Park",
 		"clues": "<li>Named after an activist for the rights of the mentally ill </li><li>108 acres</li><li>Was almost sold by for development a few years ago</li>",
-		"answerLink": "< a href = 'http://dorotheadixpark.org/‘>Click here for answer</a>"
+		"answerLink": "<a href = 'http://dorotheadixpark.org/'>Click here for answer</a>"
 	  }
     },
     {
@@ -64,7 +64,7 @@
 		"icon": "https://image.flaticon.com/icons/png/128/89/89044.png",
 		"name": "Central Prison",
 		"clues": "<li>You shouldn't try to end up here</li><li>Over 700 people live here</li><li>Is run by Wake County government</li>",
-		"answerLink" : "< a href = 'https://www.ncdps.gov/adult-corrections/prisons/prison-facilities/central-prison'>Click here for answer</a>"
+		"answerLink" : "<a href = 'https://www.ncdps.gov/adult-corrections/prisons/prison-facilities/central-prison'>Click here for answer</a>"
 	  }
     }
   ]

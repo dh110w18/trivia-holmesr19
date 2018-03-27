@@ -21,7 +21,7 @@
 			"coordinates": [-78.6820946, 35.7796633]
 	  },
 	  "properties": {
-		"icon”=": "http://www.chisouthfl.org/wp-content/uploads/2015/11/school47.png",
+		"icon=": "http://www.chisouthfl.org/wp-content/uploads/2015/11/school47.png",
 		"name": "North Carolina State University",
 		"clues": "<li>Mascot is the Wolfpack</li><li>Webassign was created here</li><li>One of the top engineering programs in the country</li>",
 		"answerLink" : "<a href = 'https://www.ncsu.edu/'>Click here for answer</a>"

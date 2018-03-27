@@ -1,0 +1,71 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+	  "type" : "Feature",
+	  "geometry": {
+			"type": "Point",
+			"coordinates": [-78.6657276, 35.7861351]
+	  },
+	  "properties": {
+		"icon": "https://image.flaticon.com/icons/png/128/167/167707.png",
+		"name": "Needham Broughton High School",
+    "clues": "<li>Mascot is the Capitals</li><li>The first of its kind in Raleigh</li><li>John Wall went here for a year</li>",
+    "answerLink": "<a href = 'https://www.wcpss.net/broughtonhs'>Click here for answer</a>"
+	  }
+    },
+    {
+	  "type" : "Feature",
+	  "geometry": {
+			"type": "Point",
+			"coordinates": [-78.6820946, 35.7796633]
+	  },
+	  "properties": {
+		"icon”=": "http://www.chisouthfl.org/wp-content/uploads/2015/11/school47.png",
+		"name": "North Carolina State University",
+		"clues": "<li>Mascot is the Wolfpack</li><li>Webassign was created here</li><li>One of the top engineering programs in the country</li>",
+		"answerLink" : "<a href = 'https://www.ncsu.edu/'>Click here for answer</a>"
+	  }
+    },
+    {
+	  "type" : "Feature",
+	  "geometry": {
+			"type": "Point",
+			"coordinates": [-78.6820946, 35.7846633]
+	  },
+	  "properties": {
+		"icon": "https://cdn3.iconfinder.com/data/icons/outline-amenities-icon-set/64/Pool-128.png",
+		"name": "Ridge Road Pool",
+    "clues": "<li>Favorite place for people to go in the summer</li><li>Home of the Dolphins</li><li>Is next to Martin Middle School</li>",
+    "answerLink": "<a href = 'https://www.raleighnc.gov/parks/content/ParksRec/Articles/Programs/Aquatics/Pools.html'>Click here for answer</a>"
+            
+	  }
+    },
+    {
+	  "type" : "Feature",
+	  "geometry": {
+			"type": "Point",
+			"coordinates": [-78.6618733, 35.7687746]
+	  },
+	  "properties": {
+		"icon": "http://icons.iconarchive.com/icons/sonya/swarm/128/Park-icon.png",
+		"name": "Dorothea Dix Park",
+		"clues": "<li>Named after an activist for the rights of the mentally ill </li><li>108 acres</li><li>Was almost sold by for development a few years ago</li>",
+		"answerLink": "< a href = 'http://dorotheadixpark.org/‘>Click here for answer</a>"
+	  }
+    },
+    {
+	  "type" : "Feature",
+	  "geometry": {
+			"type": "Point",
+			"coordinates": [-78.6554932, 35.7775454]
+	  },
+	  "properties": {
+		"icon": "https://image.flaticon.com/icons/png/128/89/89044.png",
+		"name": "Central Prison",
+		"clues": "<li>You shouldn't try to end up here</li><li>Over 700 people live here</li><li>Is run by Wake County government</li>",
+		"answerLink" : "< a href = 'https://www.ncdps.gov/adult-corrections/prisons/prison-facilities/central-prison'>Click here for answer</a>"
+	  }
+    }
+  ]
+}
